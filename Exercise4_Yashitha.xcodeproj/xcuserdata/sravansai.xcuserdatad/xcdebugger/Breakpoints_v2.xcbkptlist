@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6494DDEC-905C-4AFC-A08F-213583F6069D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7325F92F-B16F-4B44-A916-4E1578A7418A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Exercise4_Nalla_Sravan/ScoreViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7325F92F-B16F-4B44-A916-4E1578A7418A - cbe118b692b851f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Exercise4_Nalla_Sravan.ScoreViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Exercise4_Nalla_Sravan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Exercise4_Nalla_Sravan/Exercise4_Nalla_Sravan/ScoreViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1900">
+               </Location>
+               <Location
+                  uuid = "7325F92F-B16F-4B44-A916-4E1578A7418A - cbe118b692b851f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Exercise4_Nalla_Sravan.ScoreViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Exercise4_Nalla_Sravan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Exercise4_Nalla_Sravan/Exercise4_Nalla_Sravan/ScoreViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1876">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
